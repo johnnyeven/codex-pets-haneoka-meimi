@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "run_dir": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater",
+  "spritesheet": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater/final/spritesheet.webp",
+  "validation": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater/final/validation.json",
+  "contact_sheet": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater/qa/contact-sheet.png",
+  "review": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater/qa/review.json",
+  "package": "/Users/liyiwen/.codex/pets/meimi-mint-sweater"
+}

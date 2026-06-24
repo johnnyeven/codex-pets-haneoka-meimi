@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "run_dir": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls",
+  "spritesheet": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/final/spritesheet.webp",
+  "validation": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/final/validation.json",
+  "contact_sheet": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/qa/contact-sheet.png",
+  "review": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/qa/review.json",
+  "package": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/meimi-striped-shortalls"
+}

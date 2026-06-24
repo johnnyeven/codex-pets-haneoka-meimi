@@ -1,0 +1,990 @@
+{
+  "ok": true,
+  "frames_root": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames",
+  "errors": [],
+  "warnings": [
+    "idle used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "running-right used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "running-left used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "waving used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "jumping used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "failed used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "waiting used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "running used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "review used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+  ],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "idle used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11447,
+          "bbox": [
+            50,
+            5,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 43
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11577,
+          "bbox": [
+            48,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 42
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11373,
+          "bbox": [
+            50,
+            6,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 32
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11349,
+          "bbox": [
+            50,
+            6,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 33
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11599,
+          "bbox": [
+            46,
+            6,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 52
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11305,
+          "bbox": [
+            50,
+            6,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 41
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "running-right used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10700,
+          "bbox": [
+            49,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 112
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10734,
+          "bbox": [
+            48,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 94
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10604,
+          "bbox": [
+            48,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 130
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10653,
+          "bbox": [
+            43,
+            5,
+            149,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 85
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10662,
+          "bbox": [
+            42,
+            5,
+            150,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 83
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10420,
+          "bbox": [
+            49,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 93
+        },
+        {
+          "index": 6,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10789,
+          "bbox": [
+            37,
+            6,
+            155,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 119
+        },
+        {
+          "index": 7,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10127,
+          "bbox": [
+            49,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 88
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "running-left used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/running-left/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10663,
+          "bbox": [
+            48,
+            5,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 109
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/running-left/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10887,
+          "bbox": [
+            43,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 95
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/running-left/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10707,
+          "bbox": [
+            44,
+            5,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 119
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/running-left/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10604,
+          "bbox": [
+            43,
+            5,
+            148,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 96
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/running-left/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11260,
+          "bbox": [
+            35,
+            5,
+            156,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 126
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/running-left/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10530,
+          "bbox": [
+            46,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 113
+        },
+        {
+          "index": 6,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/running-left/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10277,
+          "bbox": [
+            44,
+            6,
+            147,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 88
+        },
+        {
+          "index": 7,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10006,
+          "bbox": [
+            52,
+            5,
+            140,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 81
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "waving used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/waving/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11234,
+          "bbox": [
+            50,
+            5,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 33
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/waving/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11683,
+          "bbox": [
+            45,
+            5,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 32
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11645,
+          "bbox": [
+            45,
+            5,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 28
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/waving/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11322,
+          "bbox": [
+            50,
+            5,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 22
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "jumping used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7066,
+          "bbox": [
+            54,
+            73,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 22
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8532,
+          "bbox": [
+            51,
+            32,
+            141,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 19
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8198,
+          "bbox": [
+            48,
+            5,
+            144,
+            150
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 21
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8702,
+          "bbox": [
+            51,
+            32,
+            141,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 23
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7574,
+          "bbox": [
+            52,
+            64,
+            140,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 14
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "failed used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10370,
+          "bbox": [
+            53,
+            7,
+            139,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 70
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10429,
+          "bbox": [
+            53,
+            7,
+            139,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 75
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10097,
+          "bbox": [
+            53,
+            10,
+            139,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 69
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10244,
+          "bbox": [
+            53,
+            7,
+            139,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 56
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10387,
+          "bbox": [
+            53,
+            6,
+            139,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 76
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10568,
+          "bbox": [
+            54,
+            5,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 53
+        },
+        {
+          "index": 6,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10926,
+          "bbox": [
+            53,
+            5,
+            139,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 60
+        },
+        {
+          "index": 7,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10449,
+          "bbox": [
+            54,
+            5,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 61
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "waiting used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/waiting/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10583,
+          "bbox": [
+            50,
+            16,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 24
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/waiting/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10514,
+          "bbox": [
+            50,
+            17,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 18
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/waiting/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10194,
+          "bbox": [
+            50,
+            21,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 25
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10536,
+          "bbox": [
+            50,
+            16,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 27
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/waiting/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10589,
+          "bbox": [
+            50,
+            5,
+            141,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 20
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/waiting/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10580,
+          "bbox": [
+            50,
+            16,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 16
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "running used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/running/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12532,
+          "bbox": [
+            43,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 55
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/running/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12413,
+          "bbox": [
+            43,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 65
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12358,
+          "bbox": [
+            43,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 67
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12457,
+          "bbox": [
+            43,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 54
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12412,
+          "bbox": [
+            43,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 42
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12069,
+          "bbox": [
+            45,
+            5,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 64
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "review used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/review/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11240,
+          "bbox": [
+            48,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 38
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/review/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11228,
+          "bbox": [
+            48,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 40
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/review/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11226,
+          "bbox": [
+            47,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 48
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/review/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11182,
+          "bbox": [
+            47,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 49
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10914,
+          "bbox": [
+            46,
+            10,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 42
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-striped-shortalls/frames/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11147,
+          "bbox": [
+            48,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 48
+        }
+      ]
+    }
+  ]
+}

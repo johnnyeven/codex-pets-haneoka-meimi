@@ -1,0 +1,229 @@
+{
+  "pet_id": "meimi-mint-sweater",
+  "display_name": "羽丘芽美（薄荷毛衣）",
+  "description": "羽丘芽美浅薄荷色毛衣与深蓝裙换装的 Q 版动画宠物。",
+  "created_at": "2026-06-24T09:48:11.539563+00:00",
+  "atlas": {
+    "columns": 8,
+    "rows": 9,
+    "cell_width": 192,
+    "cell_height": 208,
+    "width": 1536,
+    "height": 1872
+  },
+  "rows": [
+    {
+      "state": "idle",
+      "row": 0,
+      "frames": 6,
+      "purpose": "calm resting, breathing, and blinking loop"
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "frames": 8,
+      "purpose": "rightward drag movement loop"
+    },
+    {
+      "state": "running-left",
+      "row": 2,
+      "frames": 8,
+      "purpose": "leftward drag movement loop"
+    },
+    {
+      "state": "waving",
+      "row": 3,
+      "frames": 4,
+      "purpose": "greeting or attention gesture"
+    },
+    {
+      "state": "jumping",
+      "row": 4,
+      "frames": 5,
+      "purpose": "hover or playful jump"
+    },
+    {
+      "state": "failed",
+      "row": 5,
+      "frames": 8,
+      "purpose": "blocked, failed, or cancelled reaction"
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frames": 6,
+      "purpose": "waiting for approval, help, or user input"
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frames": 6,
+      "purpose": "active task work or processing"
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frames": 6,
+      "purpose": "ready or completed output review"
+    }
+  ],
+  "layout_guides": [
+    {
+      "state": "idle",
+      "path": "references/layout-guides/idle.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "running-right",
+      "path": "references/layout-guides/running-right.png",
+      "width": 1536,
+      "height": 208,
+      "frames": 8,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "running-left",
+      "path": "references/layout-guides/running-left.png",
+      "width": 1536,
+      "height": 208,
+      "frames": 8,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "waving",
+      "path": "references/layout-guides/waving.png",
+      "width": 768,
+      "height": 208,
+      "frames": 4,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "jumping",
+      "path": "references/layout-guides/jumping.png",
+      "width": 960,
+      "height": 208,
+      "frames": 5,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "failed",
+      "path": "references/layout-guides/failed.png",
+      "width": 1536,
+      "height": 208,
+      "frames": 8,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "waiting",
+      "path": "references/layout-guides/waiting.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "running",
+      "path": "references/layout-guides/running.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "review",
+      "path": "references/layout-guides/review.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    }
+  ],
+  "references": [
+    {
+      "path": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater/references/reference-01.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGB",
+      "format": "PNG",
+      "source_path": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-pink-pinafore/references/canonical-base.png",
+      "copied_path": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater/references/reference-01.png"
+    },
+    {
+      "path": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater/references/reference-02.png",
+      "width": 574,
+      "height": 610,
+      "mode": "RGBA",
+      "format": "PNG",
+      "source_path": "/private/var/folders/c5/rj0h8xws60dbgvg0_l9h0tbm0000gn/T/codex-clipboard-f8967348-20fc-4aec-955a-780f55b27539.png",
+      "copied_path": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater/references/reference-02.png"
+    },
+    {
+      "path": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater/references/reference-03.webp",
+      "width": 1536,
+      "height": 1872,
+      "mode": "RGBA",
+      "format": "WEBP",
+      "source_path": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/meimi-pink-pinafore/spritesheet.webp",
+      "copied_path": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater/references/reference-03.webp"
+    }
+  ],
+  "chroma_key": {
+    "hex": "#0000FF",
+    "rgb": [
+      0,
+      0,
+      255
+    ],
+    "name": "blue",
+    "selection": "auto",
+    "score": 203.81
+  },
+  "pet_notes": "Create a new Codex desktop pet of Haneoka Meimi in the same clean non-pixel anime cel chibi style as the existing Meimi pink-pinafore pet. Preserve Meimi identity cues: large expressive blue eyes, cute compact full-body proportions, long saturated warm orange hair with a slight reddish-orange tone, not yellow/blonde, no hat/headwear. Special Meimi hime-style ear sidelocks from the new hair reference: on both sides of the face, each sidelock starts as a narrow tucked/gathered strand near the cheek and ear, then becomes a short cheek-side hair block with a straight blunt horizontal end, slightly outward at the tip; the near-face root must stay narrow, not broad. Do not make broad traditional hime panels, ordinary long side bangs, fluffy side curls, or square hair flaps. Outfit: light mint/aqua long-sleeve sweater over a white pointed collar, dark navy skirt, white socks, simple pink shoes. No text, logos, scenery, shadows, or detached effects.",
+  "style_preset": "auto",
+  "style_notes": "Pet-safe non-pixel anime cel illustration matching the existing meimi-pink-pinafore style: crisp clean outline, smooth cel colors, compact whole-body sprite readable in a 192x208 cell, same face and proportions across all rows. Lock hair as saturated warm orange with slight reddish-orange hue and the special Meimi cheek sidelocks: narrow tucked roots near the face, short blunt horizontal ends at cheek level, not broad panels. Keep no hat and the mint sweater, white pointed collar, dark navy skirt outfit consistent.",
+  "style_contract": "Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Pet-safe non-pixel anime cel illustration matching the existing meimi-pink-pinafore style: crisp clean outline, smooth cel colors, compact whole-body sprite readable in a 192x208 cell, same face and proportions across all rows. Lock hair as saturated warm orange with slight reddish-orange hue and the special narrow-gathered cheek sidelocks with straight blunt ends. Keep no hat and the mint sweater, white pointed collar, dark navy skirt outfit consistent..",
+  "brand_name": "",
+  "brand_brief": "",
+  "brand_sources": [],
+  "pet_safe_style": "Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction.",
+  "primary_generation_skill": "$imagegen"
+}
