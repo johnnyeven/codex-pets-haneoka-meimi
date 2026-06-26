@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "run_dir": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt",
+  "spritesheet": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/final/spritesheet.webp",
+  "validation": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/final/validation.json",
+  "contact_sheet": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/qa/contact-sheet.png",
+  "review": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/qa/review.json",
+  "package": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/meimi-white-suspender-skirt"
+}

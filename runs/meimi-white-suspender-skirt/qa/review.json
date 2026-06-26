@@ -1,0 +1,990 @@
+{
+  "ok": true,
+  "frames_root": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames",
+  "errors": [],
+  "warnings": [
+    "idle used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "running-right used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "running-left used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "waving used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "jumping used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "failed used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "waiting used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "running used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "review used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+  ],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "idle used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8486,
+          "bbox": [
+            60,
+            5,
+            132,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 4
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8479,
+          "bbox": [
+            60,
+            5,
+            132,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8547,
+          "bbox": [
+            60,
+            5,
+            132,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8541,
+          "bbox": [
+            60,
+            5,
+            132,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 2
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8557,
+          "bbox": [
+            60,
+            5,
+            132,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 3
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8394,
+          "bbox": [
+            60,
+            5,
+            132,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 2
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "running-right used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10249,
+          "bbox": [
+            33,
+            5,
+            158,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 225
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9994,
+          "bbox": [
+            41,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 191
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10254,
+          "bbox": [
+            37,
+            5,
+            154,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 181
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9831,
+          "bbox": [
+            46,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 203
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10137,
+          "bbox": [
+            33,
+            5,
+            158,
+            195
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 169
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10150,
+          "bbox": [
+            43,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 163
+        },
+        {
+          "index": 6,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10208,
+          "bbox": [
+            41,
+            5,
+            150,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 181
+        },
+        {
+          "index": 7,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9886,
+          "bbox": [
+            40,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 206
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "running-left used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/running-left/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10175,
+          "bbox": [
+            36,
+            5,
+            153,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 198
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/running-left/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10007,
+          "bbox": [
+            42,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 205
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/running-left/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10365,
+          "bbox": [
+            34,
+            5,
+            156,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 179
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/running-left/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9830,
+          "bbox": [
+            46,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 214
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/running-left/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10132,
+          "bbox": [
+            34,
+            5,
+            157,
+            195
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 179
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/running-left/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10155,
+          "bbox": [
+            43,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 169
+        },
+        {
+          "index": 6,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/running-left/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10296,
+          "bbox": [
+            34,
+            5,
+            156,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 180
+        },
+        {
+          "index": 7,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9920,
+          "bbox": [
+            40,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 200
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "waving used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/waving/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9559,
+          "bbox": [
+            55,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 98
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/waving/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10095,
+          "bbox": [
+            48,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 133
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10085,
+          "bbox": [
+            48,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 120
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/waving/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9556,
+          "bbox": [
+            55,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 94
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "jumping used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6181,
+          "bbox": [
+            53,
+            76,
+            138,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 55
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7259,
+          "bbox": [
+            51,
+            32,
+            141,
+            178
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 56
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6930,
+          "bbox": [
+            51,
+            5,
+            141,
+            134
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 55
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7453,
+          "bbox": [
+            48,
+            36,
+            144,
+            194
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 59
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6011,
+          "bbox": [
+            54,
+            79,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 48
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "failed used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9307,
+          "bbox": [
+            55,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 130
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9319,
+          "bbox": [
+            54,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 130
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9277,
+          "bbox": [
+            55,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 137
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9353,
+          "bbox": [
+            54,
+            7,
+            137,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 132
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9210,
+          "bbox": [
+            56,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 123
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9108,
+          "bbox": [
+            55,
+            6,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 124
+        },
+        {
+          "index": 6,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9152,
+          "bbox": [
+            56,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 161
+        },
+        {
+          "index": 7,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9061,
+          "bbox": [
+            57,
+            5,
+            133,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 137
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "waiting used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/waiting/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9575,
+          "bbox": [
+            57,
+            5,
+            134,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 82
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/waiting/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9487,
+          "bbox": [
+            57,
+            5,
+            134,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 86
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/waiting/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9503,
+          "bbox": [
+            57,
+            5,
+            134,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 103
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8742,
+          "bbox": [
+            57,
+            12,
+            134,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 87
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/waiting/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9088,
+          "bbox": [
+            57,
+            7,
+            134,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 87
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/waiting/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9278,
+          "bbox": [
+            57,
+            6,
+            134,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 68
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "running used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/running/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10184,
+          "bbox": [
+            48,
+            8,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 110
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/running/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10164,
+          "bbox": [
+            48,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 118
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10195,
+          "bbox": [
+            48,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 147
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10052,
+          "bbox": [
+            49,
+            5,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 139
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10069,
+          "bbox": [
+            48,
+            5,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 115
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9939,
+          "bbox": [
+            48,
+            6,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 125
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "review used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/review/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9470,
+          "bbox": [
+            56,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 108
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/review/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9222,
+          "bbox": [
+            57,
+            5,
+            133,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 118
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/review/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9441,
+          "bbox": [
+            56,
+            6,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 93
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/review/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9540,
+          "bbox": [
+            56,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 115
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9308,
+          "bbox": [
+            56,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 116
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-white-suspender-skirt/frames/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9438,
+          "bbox": [
+            56,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 124
+        }
+      ]
+    }
+  ]
+}
