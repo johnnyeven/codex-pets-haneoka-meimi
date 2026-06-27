@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "run_dir": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody",
+  "spritesheet": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/final/spritesheet.webp",
+  "validation": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/final/validation.json",
+  "contact_sheet": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/qa/contact-sheet.png",
+  "review": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/qa/review.json",
+  "package": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/meimi-st-tail"
+}

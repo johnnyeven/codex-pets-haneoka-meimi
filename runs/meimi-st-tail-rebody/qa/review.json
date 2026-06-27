@@ -1,0 +1,962 @@
+{
+  "ok": true,
+  "frames_root": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames",
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8376,
+          "bbox": [
+            55,
+            5,
+            137,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 174
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8252,
+          "bbox": [
+            55,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 182
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8374,
+          "bbox": [
+            55,
+            5,
+            137,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 180
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8321,
+          "bbox": [
+            55,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 172
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8216,
+          "bbox": [
+            56,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 179
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8258,
+          "bbox": [
+            56,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 161
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9724,
+          "bbox": [
+            33,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 499
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9848,
+          "bbox": [
+            35,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 487
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9987,
+          "bbox": [
+            38,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 511
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10490,
+          "bbox": [
+            26,
+            5,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 534
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9654,
+          "bbox": [
+            37,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 497
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9765,
+          "bbox": [
+            36,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 510
+        },
+        {
+          "index": 6,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10038,
+          "bbox": [
+            31,
+            5,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 552
+        },
+        {
+          "index": 7,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9694,
+          "bbox": [
+            37,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 535
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/running-left/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9707,
+          "bbox": [
+            34,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 486
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/running-left/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9856,
+          "bbox": [
+            36,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 528
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/running-left/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10037,
+          "bbox": [
+            36,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 525
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/running-left/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10443,
+          "bbox": [
+            32,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 540
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/running-left/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9749,
+          "bbox": [
+            33,
+            5,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 502
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/running-left/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9851,
+          "bbox": [
+            35,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 534
+        },
+        {
+          "index": 6,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/running-left/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9962,
+          "bbox": [
+            32,
+            5,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 534
+        },
+        {
+          "index": 7,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9600,
+          "bbox": [
+            39,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 512
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/waving/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8816,
+          "bbox": [
+            52,
+            5,
+            139,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 206
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/waving/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8219,
+          "bbox": [
+            49,
+            5,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 189
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8921,
+          "bbox": [
+            50,
+            5,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 186
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/waving/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8809,
+          "bbox": [
+            52,
+            5,
+            139,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 202
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13756,
+          "bbox": [
+            17,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 409
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11158,
+          "bbox": [
+            31,
+            5,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 395
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12504,
+          "bbox": [
+            23,
+            5,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 412
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9535,
+          "bbox": [
+            35,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 289
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13627,
+          "bbox": [
+            16,
+            5,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 396
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8821,
+          "bbox": [
+            56,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 287
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8496,
+          "bbox": [
+            57,
+            5,
+            134,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 245
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8198,
+          "bbox": [
+            58,
+            5,
+            134,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 268
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7878,
+          "bbox": [
+            61,
+            5,
+            130,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 235
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8488,
+          "bbox": [
+            57,
+            5,
+            134,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 253
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8018,
+          "bbox": [
+            61,
+            5,
+            130,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 256
+        },
+        {
+          "index": 6,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7947,
+          "bbox": [
+            58,
+            5,
+            133,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 237
+        },
+        {
+          "index": 7,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8105,
+          "bbox": [
+            59,
+            5,
+            132,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 268
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/waiting/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8867,
+          "bbox": [
+            51,
+            5,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 215
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/waiting/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8190,
+          "bbox": [
+            58,
+            5,
+            134,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 177
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/waiting/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8189,
+          "bbox": [
+            58,
+            5,
+            133,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 189
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8064,
+          "bbox": [
+            59,
+            5,
+            133,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 210
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/waiting/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7888,
+          "bbox": [
+            58,
+            5,
+            134,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 220
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/waiting/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8127,
+          "bbox": [
+            58,
+            5,
+            133,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 215
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/running/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9896,
+          "bbox": [
+            43,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 201
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/running/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9892,
+          "bbox": [
+            43,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 214
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9909,
+          "bbox": [
+            45,
+            5,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 224
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9833,
+          "bbox": [
+            46,
+            5,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 221
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9937,
+          "bbox": [
+            44,
+            5,
+            147,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 224
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9774,
+          "bbox": [
+            46,
+            5,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 214
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/review/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9110,
+          "bbox": [
+            48,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 219
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/review/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8921,
+          "bbox": [
+            49,
+            5,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 190
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/review/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9078,
+          "bbox": [
+            49,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 222
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/review/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9194,
+          "bbox": [
+            46,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 202
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9138,
+          "bbox": [
+            48,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 199
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-rebody/frames/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9022,
+          "bbox": [
+            50,
+            5,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 184
+        }
+      ]
+    }
+  ]
+}
