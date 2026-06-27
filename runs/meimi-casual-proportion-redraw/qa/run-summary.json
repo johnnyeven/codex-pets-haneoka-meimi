@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "objective": "Redo meimi-casual body proportions only",
+  "base": "D:\\Documents\\ai\\codex-pets-haneoka-meimi\\runs\\meimi-casual-proportion-redraw\\decoded\\base.png",
+  "spritesheet": "D:\\Documents\\ai\\codex-pets-haneoka-meimi\\runs\\meimi-casual-proportion-redraw\\final\\spritesheet.webp",
+  "validation": "D:\\Documents\\ai\\codex-pets-haneoka-meimi\\runs\\meimi-casual-proportion-redraw\\final\\validation.json",
+  "contact_sheet": "D:\\Documents\\ai\\codex-pets-haneoka-meimi\\runs\\meimi-casual-proportion-redraw\\qa\\contact-sheet.png",
+  "review": "D:\\Documents\\ai\\codex-pets-haneoka-meimi\\runs\\meimi-casual-proportion-redraw\\qa\\review.json",
+  "jumping_extraction": "stable-slots with #00FF00 to preserve vertical motion",
+  "package": "C:\\Users\\oldfo\\.codex\\pets\\meimi-casual",
+  "repo_package": "D:\\Documents\\ai\\codex-pets-haneoka-meimi\\meimi-casual"
+}
