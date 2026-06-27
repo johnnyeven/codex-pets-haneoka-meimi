@@ -1,0 +1,25 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#00FF00",
+    "rgb": [
+      0,
+      255,
+      0
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "jumping",
+      "frames": [
+        "D:\\Documents\\ai\\codex-pets-haneoka-meimi\\runs\\meimi-striped-shortalls-proportion-redraw\\frames\\jumping\\00.png",
+        "D:\\Documents\\ai\\codex-pets-haneoka-meimi\\runs\\meimi-striped-shortalls-proportion-redraw\\frames\\jumping\\01.png",
+        "D:\\Documents\\ai\\codex-pets-haneoka-meimi\\runs\\meimi-striped-shortalls-proportion-redraw\\frames\\jumping\\02.png",
+        "D:\\Documents\\ai\\codex-pets-haneoka-meimi\\runs\\meimi-striped-shortalls-proportion-redraw\\frames\\jumping\\03.png",
+        "D:\\Documents\\ai\\codex-pets-haneoka-meimi\\runs\\meimi-striped-shortalls-proportion-redraw\\frames\\jumping\\04.png"
+      ],
+      "method": "stable-slots"
+    }
+  ]
+}

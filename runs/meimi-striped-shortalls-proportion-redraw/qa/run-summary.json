@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "repair": "running-left frames mirrored from cleaned running-right frames to fix third-row misalignment",
+  "run_dir": "D:\\Documents\\ai\\codex-pets-haneoka-meimi\\runs\\meimi-striped-shortalls-proportion-redraw",
+  "spritesheet": "D:\\Documents\\ai\\codex-pets-haneoka-meimi\\meimi-striped-shortalls\\spritesheet.webp",
+  "validation": "D:\\Documents\\ai\\codex-pets-haneoka-meimi\\runs\\meimi-striped-shortalls-proportion-redraw\\final\\validation-final-package.json",
+  "contact_sheet": "D:\\Documents\\ai\\codex-pets-haneoka-meimi\\runs\\meimi-striped-shortalls-proportion-redraw\\qa\\contact-sheet.png",
+  "review": "D:\\Documents\\ai\\codex-pets-haneoka-meimi\\runs\\meimi-striped-shortalls-proportion-redraw\\qa\\review.json",
+  "package": "C:\\Users\\oldfo\\.codex\\pets\\meimi-striped-shortalls",
+  "repo_sha256": "9781F1C323774102200713BBEBA5B8C6FEB92C88691627F47F1DCC489F71D2F0",
+  "local_sha256": "9781F1C323774102200713BBEBA5B8C6FEB92C88691627F47F1DCC489F71D2F0"
+}
