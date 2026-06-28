@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "run_dir": "D:\\Documents\\ai\\codex-pets-haneoka-meimi\\runs\\meimi-evening-dress-proportion-redraw",
+  "spritesheet": "D:\\Documents\\ai\\codex-pets-haneoka-meimi\\runs\\meimi-evening-dress-proportion-redraw\\final\\spritesheet.webp",
+  "validation": "D:\\Documents\\ai\\codex-pets-haneoka-meimi\\runs\\meimi-evening-dress-proportion-redraw\\final\\validation.json",
+  "contact_sheet": "D:\\Documents\\ai\\codex-pets-haneoka-meimi\\runs\\meimi-evening-dress-proportion-redraw\\qa\\contact-sheet.png",
+  "waving_zoom": "D:\\Documents\\ai\\codex-pets-haneoka-meimi\\runs\\meimi-evening-dress-proportion-redraw\\qa\\waving-row-zoom2.png",
+  "review": "D:\\Documents\\ai\\codex-pets-haneoka-meimi\\runs\\meimi-evening-dress-proportion-redraw\\qa\\review.json",
+  "package": "C:\\Users\\oldfo\\.codex\\pets\\meimi-evening-dress",
+  "notes": "Corrected body proportions; formal updo/bun preserved; source strips boundary-checked; jumping extracted with stable slots; waving detached blue marks removed from frames."
+}
