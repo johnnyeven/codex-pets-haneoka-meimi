@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "run_dir": "D:\\Documents\\ai\\codex-pets-haneoka-meimi\\runs\\meimi-proportion-redraw",
+  "spritesheet": "D:\\Documents\\ai\\codex-pets-haneoka-meimi\\runs\\meimi-proportion-redraw\\final\\spritesheet.webp",
+  "validation": "D:\\Documents\\ai\\codex-pets-haneoka-meimi\\runs\\meimi-proportion-redraw\\final\\validation.json",
+  "contact_sheet": "D:\\Documents\\ai\\codex-pets-haneoka-meimi\\runs\\meimi-proportion-redraw\\qa\\contact-sheet.png",
+  "review": "D:\\Documents\\ai\\codex-pets-haneoka-meimi\\runs\\meimi-proportion-redraw\\qa\\review.json",
+  "package": "C:\\Users\\oldfo\\.codex\\pets\\meimi",
+  "notes": "Student uniform body proportions corrected; outfit/hair/cap/backpack preserved; source strips boundary-checked; running-left derived framewise; jumping preserved with stable slots; waving marks cleaned from frames."
+}
