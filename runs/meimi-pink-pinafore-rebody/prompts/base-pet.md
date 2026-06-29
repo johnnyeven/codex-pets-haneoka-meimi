@@ -1,0 +1,7 @@
+Create one clean full-body reference sprite for Codex pet 羽丘芽美（粉色背带裙）.
+
+Pet identity: Rebuild meimi-pink-pinafore with the recent approved Meimi rebody proportions and hair identity from meimi-mint-sweater-rebody, while preserving the pink pinafore outfit: no hat, white short-sleeve T-shirt, wide pink shoulder straps directly connecting to the skirt waist, pink skirt, white small shoulder bag, pink shoes. Keep Haneoka Meimi's orange-red hair and distinctive narrow-root blunt-ended side ear-locks..
+Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Polished non-pixel 1990s shoujo anime pet art, crisp cel-shaded linework, same body proportion family as the confirmed recent rebody pets, flat #00ff00 chroma key background..
+
+
+Place a single centered pose on a perfectly flat pure green #00FF00 chroma-key background. Keep the full pet visible, compact, readable at 192x208, and easy to animate. Preserve approved reference identity cues. No scenery, text, borders, checkerboard transparency, shadows, glows, detached effects, or extra props. Keep #00FF00 and close colors out of the pet, props, highlights, and effects.
