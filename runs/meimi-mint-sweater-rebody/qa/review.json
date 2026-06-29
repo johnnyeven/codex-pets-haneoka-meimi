@@ -1,0 +1,966 @@
+{
+  "ok": true,
+  "frames_root": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames",
+  "errors": [],
+  "warnings": [
+    "jumping used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+  ],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": null,
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8383,
+          "bbox": [
+            60,
+            5,
+            131,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 172
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8282,
+          "bbox": [
+            61,
+            5,
+            131,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 140
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8369,
+          "bbox": [
+            60,
+            5,
+            131,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 145
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8362,
+          "bbox": [
+            60,
+            5,
+            131,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 141
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8323,
+          "bbox": [
+            61,
+            5,
+            131,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 142
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8291,
+          "bbox": [
+            61,
+            5,
+            131,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 154
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": null,
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10018,
+          "bbox": [
+            46,
+            5,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 337
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10841,
+          "bbox": [
+            41,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 410
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10858,
+          "bbox": [
+            42,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 376
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10783,
+          "bbox": [
+            38,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 372
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10810,
+          "bbox": [
+            33,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 397
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9795,
+          "bbox": [
+            46,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 355
+        },
+        {
+          "index": 6,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10814,
+          "bbox": [
+            38,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 406
+        },
+        {
+          "index": 7,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11126,
+          "bbox": [
+            24,
+            5,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 422
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": null,
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/running-left/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10018,
+          "bbox": [
+            46,
+            5,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 337
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/running-left/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10841,
+          "bbox": [
+            41,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 410
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/running-left/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11110,
+          "bbox": [
+            38,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 397
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/running-left/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11133,
+          "bbox": [
+            31,
+            5,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 396
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/running-left/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10984,
+          "bbox": [
+            31,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 388
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/running-left/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10543,
+          "bbox": [
+            36,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 356
+        },
+        {
+          "index": 6,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/running-left/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9929,
+          "bbox": [
+            49,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 339
+        },
+        {
+          "index": 7,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10217,
+          "bbox": [
+            38,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 357
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": null,
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/waving/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8448,
+          "bbox": [
+            61,
+            5,
+            131,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 184
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/waving/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9143,
+          "bbox": [
+            54,
+            5,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 184
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9176,
+          "bbox": [
+            50,
+            5,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 198
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/waving/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8563,
+          "bbox": [
+            56,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 186
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "jumping used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 5906,
+          "bbox": [
+            53,
+            88,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 108
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6647,
+          "bbox": [
+            50,
+            33,
+            141,
+            166
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 113
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7106,
+          "bbox": [
+            46,
+            5,
+            145,
+            142
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 108
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7260,
+          "bbox": [
+            50,
+            33,
+            141,
+            188
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 136
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 5887,
+          "bbox": [
+            53,
+            88,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 88
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": null,
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8673,
+          "bbox": [
+            60,
+            5,
+            131,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 208
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8694,
+          "bbox": [
+            60,
+            5,
+            131,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 218
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8521,
+          "bbox": [
+            61,
+            5,
+            131,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 216
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8390,
+          "bbox": [
+            62,
+            5,
+            129,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 196
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8687,
+          "bbox": [
+            61,
+            5,
+            130,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 206
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8505,
+          "bbox": [
+            62,
+            5,
+            130,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 197
+        },
+        {
+          "index": 6,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8412,
+          "bbox": [
+            62,
+            5,
+            130,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 217
+        },
+        {
+          "index": 7,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8356,
+          "bbox": [
+            62,
+            5,
+            130,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 236
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": null,
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/waiting/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8710,
+          "bbox": [
+            60,
+            5,
+            131,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 208
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/waiting/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8602,
+          "bbox": [
+            61,
+            5,
+            131,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 215
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/waiting/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8832,
+          "bbox": [
+            59,
+            5,
+            132,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 216
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8670,
+          "bbox": [
+            59,
+            5,
+            133,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 181
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/waiting/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8730,
+          "bbox": [
+            60,
+            5,
+            131,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 210
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/waiting/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8656,
+          "bbox": [
+            60,
+            5,
+            132,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 200
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": null,
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/running/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8714,
+          "bbox": [
+            60,
+            5,
+            132,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 195
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/running/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8576,
+          "bbox": [
+            61,
+            5,
+            131,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 224
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8769,
+          "bbox": [
+            60,
+            5,
+            132,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 248
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8594,
+          "bbox": [
+            60,
+            5,
+            131,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 222
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8531,
+          "bbox": [
+            61,
+            5,
+            131,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 235
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8528,
+          "bbox": [
+            61,
+            5,
+            131,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 233
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": null,
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/review/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8518,
+          "bbox": [
+            60,
+            5,
+            131,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 212
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/review/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8295,
+          "bbox": [
+            62,
+            5,
+            130,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 228
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/review/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8296,
+          "bbox": [
+            62,
+            5,
+            130,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 220
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/review/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8333,
+          "bbox": [
+            61,
+            5,
+            130,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 226
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8303,
+          "bbox": [
+            61,
+            5,
+            131,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 244
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-mint-sweater-rebody/frames/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8369,
+          "bbox": [
+            60,
+            5,
+            131,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 225
+        }
+      ]
+    }
+  ]
+}

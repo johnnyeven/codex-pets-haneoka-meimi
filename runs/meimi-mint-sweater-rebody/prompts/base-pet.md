@@ -1,0 +1,7 @@
+Create one clean full-body reference sprite for Codex pet 羽丘芽美（薄荷毛衣）.
+
+Pet identity: Haneoka Meimi with the newly approved rebody proportions from base-candidate-02; normal long orange-red hair with distinctive narrow-root blunt-ended side ear-locks; mint sweater outfit with white collar, frilled cuffs, deep navy pleated skirt, white slouch socks, and pink Mary Jane shoes. Preserve this body proportion, hairstyle, hair color, and outfit exactly across all animation rows..
+Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Polished non-pixel 1990s shoujo anime pet art, crisp cel-shaded linework, same body proportion as the confirmed base-candidate-02, flat #00ff00 chroma key background..
+
+
+Place a single centered pose on a perfectly flat pure user-selected #00FF00 chroma-key background. Keep the full pet visible, compact, readable at 192x208, and easy to animate. Preserve approved reference identity cues. No scenery, text, borders, checkerboard transparency, shadows, glows, detached effects, or extra props. Keep #00FF00 and close colors out of the pet, props, highlights, and effects.
