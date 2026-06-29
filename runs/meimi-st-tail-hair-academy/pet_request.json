@@ -1,0 +1,228 @@
+{
+  "pet_id": "meimi-st-tail-hair-academy",
+  "display_name": "\u7fbd\u4e18\u82bd\u7f8e\uff08\u5b66\u9662\u88c5\u602a\u76d7\u53d1\u578b\uff09",
+  "description": "\u7fbd\u4e18\u82bd\u7f8e\u5b66\u9662\u5236\u670d\u4e0e\u602a\u76d7\u9ad8\u9a6c\u5c3e\u53d1\u578b\u7ec4\u5408\u7684 Q \u7248\u52a8\u753b\u5ba0\u7269\u3002",
+  "created_at": "2026-06-29T01:01:06.260020+00:00",
+  "atlas": {
+    "columns": 8,
+    "rows": 9,
+    "cell_width": 192,
+    "cell_height": 208,
+    "width": 1536,
+    "height": 1872
+  },
+  "rows": [
+    {
+      "state": "idle",
+      "row": 0,
+      "frames": 6,
+      "purpose": "calm resting, breathing, and blinking loop"
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "frames": 8,
+      "purpose": "rightward drag movement loop"
+    },
+    {
+      "state": "running-left",
+      "row": 2,
+      "frames": 8,
+      "purpose": "leftward drag movement loop"
+    },
+    {
+      "state": "waving",
+      "row": 3,
+      "frames": 4,
+      "purpose": "greeting or attention gesture"
+    },
+    {
+      "state": "jumping",
+      "row": 4,
+      "frames": 5,
+      "purpose": "hover or playful jump"
+    },
+    {
+      "state": "failed",
+      "row": 5,
+      "frames": 8,
+      "purpose": "blocked, failed, or cancelled reaction"
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frames": 6,
+      "purpose": "waiting for approval, help, or user input"
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frames": 6,
+      "purpose": "active task work or processing"
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frames": 6,
+      "purpose": "ready or completed output review"
+    }
+  ],
+  "layout_guides": [
+    {
+      "state": "idle",
+      "path": "references/layout-guides/idle.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "running-right",
+      "path": "references/layout-guides/running-right.png",
+      "width": 1536,
+      "height": 208,
+      "frames": 8,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "running-left",
+      "path": "references/layout-guides/running-left.png",
+      "width": 1536,
+      "height": 208,
+      "frames": 8,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "waving",
+      "path": "references/layout-guides/waving.png",
+      "width": 768,
+      "height": 208,
+      "frames": 4,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "jumping",
+      "path": "references/layout-guides/jumping.png",
+      "width": 960,
+      "height": 208,
+      "frames": 5,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "failed",
+      "path": "references/layout-guides/failed.png",
+      "width": 1536,
+      "height": 208,
+      "frames": 8,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "waiting",
+      "path": "references/layout-guides/waiting.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "running",
+      "path": "references/layout-guides/running.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "review",
+      "path": "references/layout-guides/review.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    }
+  ],
+  "references": [
+    {
+      "path": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy/references/reference-01.png",
+      "width": 192,
+      "height": 208,
+      "mode": "RGBA",
+      "format": "PNG",
+      "source_path": "/private/var/folders/c5/rj0h8xws60dbgvg0_l9h0tbm0000gn/T/tmp.7UsbmvdM4E/references/original-academy-uniform-idle-frame.png",
+      "copied_path": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy/references/reference-01.png"
+    },
+    {
+      "path": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy/references/reference-02.png",
+      "width": 600,
+      "height": 390,
+      "mode": "RGBA",
+      "format": "PNG",
+      "source_path": "/private/var/folders/c5/rj0h8xws60dbgvg0_l9h0tbm0000gn/T/tmp.7UsbmvdM4E/references/st-tail-ponytail-curl-reference.png",
+      "copied_path": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy/references/reference-02.png"
+    },
+    {
+      "path": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy/references/reference-03.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGB",
+      "format": "PNG",
+      "source_path": "/private/var/folders/c5/rj0h8xws60dbgvg0_l9h0tbm0000gn/T/tmp.7UsbmvdM4E/decoded/base-candidate-04.png",
+      "copied_path": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy/references/reference-03.png"
+    }
+  ],
+  "chroma_key": {
+    "hex": "#00FF00",
+    "rgb": [
+      0,
+      255,
+      0
+    ],
+    "name": "user-selected",
+    "selection": "manual"
+  },
+  "pet_notes": "Haneoka Meimi wearing the original academy uniform while keeping the St. Tail hairstyle. Preserve confirmed base-candidate-04 exactly: red academy jacket, green bow tie, cream/yellow pleated skirt, black knee-high socks, brown ankle boots, backpack straps and backpack, orange-red hair, large burgundy-red bow, high side ponytail that is long, gathered, and curls into a tight rolled tip. Keep the slightly shorter newer slender proportions. No pink casual pinafore, no white shoulder bag, no thief costume, no cane, no gloves, no cape, no dark tights.",
+  "style_preset": "auto",
+  "style_notes": "Non-pixel 1990s shoujo anime Q-version pet, smooth cel shading, crisp dark outline, compact readable full-body sprite. Preserve the confirmed academy-uniform plus St. Tail curled ponytail identity across all rows.",
+  "style_contract": "Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Non-pixel 1990s shoujo anime Q-version pet, smooth cel shading, crisp dark outline, compact readable full-body sprite. Preserve the confirmed academy-uniform plus St. Tail curled ponytail identity across all rows..",
+  "brand_name": "",
+  "brand_brief": "",
+  "brand_sources": [],
+  "pet_safe_style": "Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction.",
+  "primary_generation_skill": "$imagegen"
+}
