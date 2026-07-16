@@ -1,0 +1,5 @@
+{
+  "ok": true,
+  "repair": "remapped 16 look cells with new_direction = 180 - old_direction to align v2 screen-coordinate up/down while preserving left/right hard cardinals",
+  "map_indices": [8,7,6,5,4,3,2,1,0,15,14,13,12,11,10,9]
+}

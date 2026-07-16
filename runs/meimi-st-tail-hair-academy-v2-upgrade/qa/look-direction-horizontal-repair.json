@@ -1,0 +1,6 @@
+{
+  "ok": true,
+  "repair": "mirrored each row 9 and row 10 cell horizontally with full-cell replacement after blind QA found left/right semantic inversion",
+  "rows": [9, 10],
+  "columns": 8
+}

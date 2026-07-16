@@ -1,0 +1,7 @@
+{
+  "ok": true,
+  "repair": "mirrored row 10 column 4 only after blind QA found 270 was read as screen-right",
+  "row": 10,
+  "column": 4,
+  "direction": "270"
+}

@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "strip": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/decoded/look-cardinals.png",
+  "directions": [
+    "000",
+    "090",
+    "180",
+    "270"
+  ],
+  "errors": [],
+  "anchors": [
+    {
+      "direction": "000",
+      "source_box": [
+        0,
+        0,
+        496,
+        793
+      ],
+      "used_pixels": 47744,
+      "edge_pixels": 0,
+      "output": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/decoded/look-anchors/000.png"
+    },
+    {
+      "direction": "090",
+      "source_box": [
+        496,
+        0,
+        992,
+        793
+      ],
+      "used_pixels": 39888,
+      "edge_pixels": 0,
+      "output": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/decoded/look-anchors/090.png"
+    },
+    {
+      "direction": "180",
+      "source_box": [
+        992,
+        0,
+        1487,
+        793
+      ],
+      "used_pixels": 47334,
+      "edge_pixels": 0,
+      "output": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/decoded/look-anchors/180.png"
+    },
+    {
+      "direction": "270",
+      "source_box": [
+        1487,
+        0,
+        1983,
+        793
+      ],
+      "used_pixels": 39715,
+      "edge_pixels": 0,
+      "output": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/decoded/look-anchors/270.png"
+    }
+  ]
+}

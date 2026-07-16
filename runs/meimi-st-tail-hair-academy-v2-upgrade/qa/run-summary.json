@@ -1,0 +1,30 @@
+{
+  "ok": true,
+  "pet_id": "meimi-st-tail-hair-academy",
+  "display_name": "羽丘芽美（学院装怪盗发型）",
+  "upgrade": "spriteVersionNumber 2 with 16 look directions",
+  "final_package": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/meimi-st-tail-hair-academy",
+  "installed_package": "/Users/liyiwen/.codex/pets/meimi-st-tail-hair-academy",
+  "spritesheet_sha256": "01c45888554bd17d441cdbc823c880a74b3df04abc4bf0299a60b48cfcfb23fc",
+  "validation": {
+    "run_final": "final/validation-extended.json",
+    "package": "qa/package-validation.json",
+    "installed": "qa/installed-validation.json",
+    "v2_requirements": "1536x2288, 8 columns, 11 rows, sprite version 2, no errors, no warnings"
+  },
+  "qa_artifacts": {
+    "contact_sheet": "qa/contact-sheet-extended.png",
+    "direction_sheet": "qa/look-directions.png",
+    "blind_pairs": "qa/direction-blind-pairs.png",
+    "blind_validation": "qa/blind-review-validation.json",
+    "blind_resolution": "qa/blind-review-resolution.json",
+    "direction_semantics": "qa/direction-semantics.json",
+    "continuity": "qa/look-continuity.json"
+  },
+  "notes": [
+    "Rows 0-8 preserve the existing approved v1 pet actions.",
+    "Rows 9-10 add 16 look directions.",
+    "Final blind QA hard gates passed for 000/180 and 090/270.",
+    "Remaining warnings are review-grade intermediate-angle cues near front/back transitions."
+  ]
+}

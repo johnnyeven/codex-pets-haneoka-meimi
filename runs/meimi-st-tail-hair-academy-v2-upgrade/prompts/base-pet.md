@@ -1,0 +1,7 @@
+Create one clean full-body reference sprite for Codex pet 羽丘芽美（学院装怪盗发型）.
+
+Pet identity: Preserve the approved existing pet exactly: Haneoka Meimi in red academy jacket, green bow, cream-yellow pleated skirt, black knee-high socks, brown ankle boots, backpack straps and backpack, orange-red hair, large burgundy bow, and long high side ponytail ending in a tight rolled curl. Upgrade only by adding natural 16-direction looking poses; preserve face, proportions, palette, outfit, hairstyle, backpack, linework and cel shading. No thief costume, cane, gloves, cape, shoulder bag, text, detached effects, shadows, or scenery..
+Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Non-pixel 1990s shoujo anime chibi pet, smooth cel shading, crisp dark outlines. Match the existing atlas exactly..
+
+
+Place a single centered pose on a perfectly flat pure user-selected #00FF00 chroma-key background. Keep the full pet visible, compact, readable at 192x208, and easy to animate. Preserve approved reference identity cues. No scenery, text, borders, checkerboard transparency, shadows, glows, detached effects, or extra props. Keep #00FF00 and close colors out of the pet, props, highlights, and effects.

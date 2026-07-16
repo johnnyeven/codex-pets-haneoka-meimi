@@ -1,0 +1,973 @@
+{
+  "ok": true,
+  "frames_root": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8467,
+          "bbox": [
+            57,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 256
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8450,
+          "bbox": [
+            57,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 244
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8453,
+          "bbox": [
+            57,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 230
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8578,
+          "bbox": [
+            56,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 229
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8460,
+          "bbox": [
+            57,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 274
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8454,
+          "bbox": [
+            57,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 260
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10179,
+          "bbox": [
+            40,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 482
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10235,
+          "bbox": [
+            43,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 475
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9979,
+          "bbox": [
+            43,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 435
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10084,
+          "bbox": [
+            44,
+            5,
+            147,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 483
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9703,
+          "bbox": [
+            42,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 443
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10179,
+          "bbox": [
+            43,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 453
+        },
+        {
+          "index": 6,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9961,
+          "bbox": [
+            43,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 430
+        },
+        {
+          "index": 7,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9951,
+          "bbox": [
+            43,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 435
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/running-left/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10179,
+          "bbox": [
+            40,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 482
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/running-left/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10235,
+          "bbox": [
+            43,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 475
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/running-left/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9979,
+          "bbox": [
+            43,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 435
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/running-left/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10084,
+          "bbox": [
+            44,
+            5,
+            147,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 483
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/running-left/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9703,
+          "bbox": [
+            42,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 443
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/running-left/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10179,
+          "bbox": [
+            43,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 453
+        },
+        {
+          "index": 6,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/running-left/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9961,
+          "bbox": [
+            43,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 430
+        },
+        {
+          "index": 7,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9951,
+          "bbox": [
+            43,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 435
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/waving/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8879,
+          "bbox": [
+            55,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 241
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/waving/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9198,
+          "bbox": [
+            47,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 242
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9298,
+          "bbox": [
+            46,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 273
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/waving/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8865,
+          "bbox": [
+            55,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 270
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15131,
+          "bbox": [
+            22,
+            5,
+            170,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 479
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11211,
+          "bbox": [
+            39,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 339
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14396,
+          "bbox": [
+            30,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 415
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11354,
+          "bbox": [
+            33,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 306
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11821,
+          "bbox": [
+            37,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 311
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8842,
+          "bbox": [
+            56,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 236
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8439,
+          "bbox": [
+            56,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 232
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8504,
+          "bbox": [
+            57,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 202
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8563,
+          "bbox": [
+            57,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 225
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8588,
+          "bbox": [
+            56,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 228
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8436,
+          "bbox": [
+            58,
+            5,
+            134,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 195
+        },
+        {
+          "index": 6,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8539,
+          "bbox": [
+            57,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 203
+        },
+        {
+          "index": 7,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8738,
+          "bbox": [
+            58,
+            5,
+            133,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 259
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/waiting/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8687,
+          "bbox": [
+            56,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 141
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/waiting/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8437,
+          "bbox": [
+            56,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 136
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/waiting/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8677,
+          "bbox": [
+            56,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 169
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8886,
+          "bbox": [
+            55,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 188
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/waiting/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8412,
+          "bbox": [
+            56,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 160
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/waiting/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8598,
+          "bbox": [
+            57,
+            5,
+            134,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 158
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/running/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9570,
+          "bbox": [
+            51,
+            5,
+            140,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 201
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/running/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9593,
+          "bbox": [
+            51,
+            5,
+            140,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 182
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9518,
+          "bbox": [
+            51,
+            5,
+            140,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 207
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9740,
+          "bbox": [
+            51,
+            5,
+            140,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 234
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9661,
+          "bbox": [
+            51,
+            5,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 230
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9578,
+          "bbox": [
+            51,
+            5,
+            140,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 215
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/review/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9116,
+          "bbox": [
+            55,
+            5,
+            137,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 202
+        },
+        {
+          "index": 1,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/review/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8945,
+          "bbox": [
+            55,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 183
+        },
+        {
+          "index": 2,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/review/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8952,
+          "bbox": [
+            55,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 165
+        },
+        {
+          "index": 3,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/review/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9188,
+          "bbox": [
+            55,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 248
+        },
+        {
+          "index": 4,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9038,
+          "bbox": [
+            55,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 230
+        },
+        {
+          "index": 5,
+          "file": "/Users/liyiwen/Documents/ai/codex-pets-haneoka-meimi/runs/meimi-st-tail-hair-academy-v2-upgrade/frames/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8963,
+          "bbox": [
+            55,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 204
+        }
+      ]
+    }
+  ]
+}
